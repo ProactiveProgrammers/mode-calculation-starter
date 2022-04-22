@@ -12,6 +12,8 @@ After cloning this repository to your computer, please take the following steps:
   - `python perform-mode-calculation.py`: Calculate the mode of a list of values
   - Make sure that you add all of the required features to the program
   - Consult pages 66 and 67 of "Doing Math with Python" for more details!
+  - Note that your program does not need to support the identification of multiple modes
+  - With that said, interested students can refine the program as needed to support the finding of multiple modes
 - As you complete the Python source code and technical, commit regularly to your GitHub repository
 - When you commit to your GitHub repository, please use descriptive commit messages
 - Confirm that the programs are producing the expected output
