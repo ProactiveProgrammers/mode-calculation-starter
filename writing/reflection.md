@@ -7,8 +7,6 @@ professional web site.
 
 ## Add Your Name Here
 
-TODO: Please delete all of the TODO markers and the writing prompts before submitting your project!
-
 ## Program Output
 
 ### What is the output from running the following commands?
