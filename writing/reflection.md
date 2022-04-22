@@ -1,5 +1,10 @@
 # Mode Calculation
 
+TODO: Please delete all of the TODO markers and writing prompts from
+this document so as to ensure that your final reflection is polished,
+free of writing and Markdown mistakes, and ready for publication on your
+professional web site.
+
 ## Add Your Name Here
 
 TODO: Please delete all of the TODO markers and the writing prompts before submitting your project!
