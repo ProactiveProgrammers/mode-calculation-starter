@@ -9,7 +9,7 @@
 #       a Tuple[int, int]
 #
 # TODO: calculate the mode of the values in a list of numbers
-# return an ordered pair (i.e., a tuple) containing:
+# TODO: return an ordered pair (i.e., a tuple) containing:
 # (the number that is the mode, the number of times the mode appeared)
 
 # TODO: Make sure that you understand why this conditional logic exists!
