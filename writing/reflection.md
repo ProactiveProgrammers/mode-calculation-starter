@@ -19,7 +19,7 @@ TODO: Use a fenced code block to provide the output for this command.
 
 ### What is the purpose of the following source code statement?
 
-```
+```python
 from collections import Counter
 ```
 
@@ -27,7 +27,7 @@ TODO: Provide at least a one or two sentence response to this question.
 
 ### What is the meaning of the following function signature?
 
-```
+```python
 def calculate_mode(numbers: List[int]) -> Tuple[int, int]
 ```
 
